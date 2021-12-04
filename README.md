@@ -24,17 +24,17 @@ A falta da insulina ou um defeito na sua ação resulta portanto em acúmulo de 
 - Dataset disponível na plataforma Kaggle: https://www.kaggle.com/alakaaay/diabetes-uci-dataset
 - Dados de pacientes do Hospital de Diabetes Sylhet em Sylhet, Bangladesh.
 
-### 🛠️ Build with
+### 🛠️ Construído com
 
 [Jupyter Notebook](https://jupyter.org/)
 
-## ✒️ Authors
+## ✒️ Autoras
 * **Luana Gribel Ito** - [Luana](https://github.com/luanagribel)
 * **Mariana Helena Inês Moreira** - [Mariana](https://github.com/Mariana-Helena)
 * **Sarah Brandão Souza** - [Sarah](https://github.com/SarahBrandao)
 * **Sinara Pimenta Medeiros** - [Sinara](https://github.com/SinaraPimenta)
 
 
-⌨️ with ❤️ by Luana, Mariana, Sarah e Sinara 😊
+⌨️ com ❤️ por Luana, Mariana, Sarah e Sinara 😊
 
 
